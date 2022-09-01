@@ -1,2 +1,2 @@
 # Face-Detector
-Face detection using OpenCV and Mediapipe.
+Face detection and Face Mesh using OpenCV and Mediapipe.
